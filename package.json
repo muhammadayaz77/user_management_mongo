@@ -4,7 +4,7 @@
     "express": "^4.21.0",
     "mongoose": "^8.7.0"
   },
-  "build":{
+  "scripts":{
     "start":"node index.mjs"
   }
 }
